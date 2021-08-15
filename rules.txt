@@ -1,0 +1,57 @@
+*.baifendian.com/*
+*.cnzz.com/*
+*.duomai.com
+*.google-analytics.com/
+*.googlesyndication.com/pagead/*
+*.googletagmanager.com
+*.hitslink.com/*
+*.infostatsvc.com/*
+*.jiathis.com/*
+*.jmp9.com/*
+*.sitescout.com/*
+*.t3nclick.com/*
+*.t3nlink.com/*
+*.taboola.*
+||52tux.com/friend/images/channel/*
+"blog.sina.com.cn##[id*=""_panel""]"
+club.kdnet.net###re_test > div.donate-Main.clearfix:nth-child(2) > div.donate-more:last-child > a > img
+club.kdnet.net##div.wrapper.clearfix.w1030px:nth-child(12) > div.lf.w840px:first-child > div.posted-box-add:nth-child(18) > div.postspecific:nth-child(4) > div.new-share-main:nth-child(5)
+cnbeta.com###cb_share
+cnbeta.com##.cnbeta-article-latest *
+cnbeta.com##.cnbeta-side-box > *
+cnbeta.com##.pageFooter
+dict.youdao.com###ads
+galaxyclub.cn###container > div.main-cont:last-child > div.main-left:first-child > div.board-view:first-child > a.banner05:last-child
+galaxyclub.cn###container > div.main-cont:last-child > div.main-right.mgb40:nth-child(2) > div.roll-bnr:nth-child(7)
+hm.baidu.com
+http://cdn2.xda-developers.com/clientscript/searchlight_ctextsearch.js
+http://cpro.baidustatic.com/*
+http://mall.51nb.com/images/topright.gif
+http://miniweb.cntv.cn/hezuo/gf/index.html
+http://pan.baidu.com/res/static/thirdparty/yunfujian-end/
+http://tcss.qq.com/*
+ithome.com###con > div:nth-child(3)
+ithome.com###tt50 > h2:first-child
+rjno1.com###r1nocheckaaa
+sino-manager.com##div.topheaderad.inner
+sosaw.com###forcedclicks
+static.googles.com
+swbbsc.com###fwin_banadblock
+swbbsc.com###fwin_banadblock_cover
+swbbsc.com###hd > div.wp > div.ppp111000111a_mu:nth-child(5)
+xltai.com/js/ads/*
+club.kdnet.net###ad-banner-left-cont
+jd.com###J_promotional-top
+jd.com###JD_activity-main > div.activity-fixed-bar.activity-fixed-bar--active:last-child
+jd.com###J_app > div.elevator.elevator_fix:last-child
+jd.com###J-global-toolbar > div.jdm-toolbar-wrap.J-wrap.z-jdm-toolbar-open
+jd.com###J_fs_act > div.fs_act_wp
+miaosha.jd.com###sk_mod_er
+item.jd.com###J-global-toolbar
+miaosha.jd.com###app > div.lc-page > div.lc-container > div > div.quark__container--3D5n1:last-child > div.quark__backtop-wrap--fDXIE:first-child
+order.jd.com###container > div.w > div.ui-slidebar:last-child
+forum.xda-developers.com###top > div.p-body:nth-child(4) > div.p-body-inner:last-child > div.uix_contentWrapper:last-child > div.p-body-main.p-body-main--withSidebar > div.p-body-sidebar:last-child
+apkmirror.com###sidebar > div.listWidget:first-child
+static.tongdun.net
+###wp>div:not(.cl):not([style]):not(.wp):not(#diynavtop)
+
